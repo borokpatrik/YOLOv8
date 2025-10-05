@@ -1,0 +1,5 @@
+train: E:/Coding/ML/Localizations/dataset/images/train
+val: E:/Coding/ML/Localizations/dataset/images/val
+
+nc: 1  # Number of classes (change if needed)
+names: ['cat'] 
